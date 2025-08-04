@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/sections/hero/Hero.tsx"],"sourcesContent":["import Image from \"next/image\";\r\nimport heroImg from \"../../assets/bg-image-hero.png\";\r\n\r\nexport const Hero = () => {\r\n  return (\r\n    <>\r\n      <Image src={heroImg} alt=\"Hero background\" />\r\n    </>\r\n  );\r\n};\r\n\r\nexport default Hero;\r\n"],"names":[],"mappings":";;;;;AAAA;;;;;;;;;AAGO,MAAM,OAAO;IAClB,qBACE;kBACE,cAAA,8OAAC,6HAAA,CAAA,UAAK;YAAC,KAAK;YAAS,KAAI;;;;;;;AAG/B;uCAEe","debugId":null}},
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/page.tsx"],"sourcesContent":["import Hero from \"./sections/hero/Hero\";\r\n\r\nexport default function Home() {\r\n  return (\r\n      <div>\r\n        <Hero />\r\n      </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,qBACI,8OAAC;kBACC,cAAA,8OAAC,uIAAA,CAAA,UAAI;;;;;;;;;;AAGb","debugId":null}}]
+}

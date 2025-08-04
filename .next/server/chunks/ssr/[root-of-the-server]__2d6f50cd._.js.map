@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/components/Imagem-bg.tsx"],"sourcesContent":["import { ImageProps } from \"next/image\";\r\n\r\nconst Imagem = ({src}: ImageProps)=>{\r\n    return (\r\n        <img \r\n        src=\"{src}\" \r\n        alt=\"\" />\r\n    )\r\n}\r\nexport default Imagem;"],"names":[],"mappings":";;;;;AAEA,MAAM,SAAS,CAAC,EAAC,GAAG,EAAa;IAC7B,qBACI,8OAAC;QACD,KAAI;QACJ,KAAI;;;;;;AAEZ;uCACe","debugId":null}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/sections/hero/Hero.tsx"],"sourcesContent":["import Imagem from \"@/app/components/Imagem-bg\";\r\nexport const Hero = () => {\r\n  return (\r\n    <div className=\"\" >\r\n      <Imagem src=\"assets/bg-image-hero.png\" alt=\"Hero Image\" />\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default Hero;"],"names":[],"mappings":";;;;;AAAA;;;AACO,MAAM,OAAO;IAClB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC,yIAAA,CAAA,UAAM;YAAC,KAAI;YAA2B,KAAI;;;;;;;;;;;AAGjD;uCAEe","debugId":null}},
+    {"offset": {"line": 64, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/page.tsx"],"sourcesContent":["import Hero from \"./sections/hero/Hero\";\r\n\r\nexport default function Home() {\r\n  return (\r\n      <div>\r\n        <Hero />\r\n      </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,qBACI,8OAAC;kBACC,cAAA,8OAAC,uIAAA,CAAA,UAAI;;;;;;;;;;AAGb","debugId":null}}]
+}

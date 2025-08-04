@@ -1,1 +1,25 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: 'AtypDisplay';
+  src: url('/fonts/Atyp/AtypDisplay-Regular.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'AtypDisplayBold';
+  src: url('/fonts/Atyp/AtypDisplay-Bold.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'AtypDisplaySemiBold';
+  src: url('/fonts/Atyp/AtypDisplay-Semibold.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'AtypDisplayLight';
+  src: url('/fonts/Atyp/AtypDisplay-Light.ttf') format('truetype');
+
+}

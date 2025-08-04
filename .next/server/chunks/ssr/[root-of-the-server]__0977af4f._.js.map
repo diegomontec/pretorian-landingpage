@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/components/Imagem.tsx"],"sourcesContent":["import { ImageProps } from \"next/image\";\r\n\r\nconst Imagem = ({src}: ImageProps)=>{\r\n    return (\r\n        <img \r\n        src=\"{src}\" \r\n        alt=\"\" \r\n        className=\"w-full h-auto object-cover\"\r\n        />\r\n    )\r\n}\r\nexport default Imagem;"],"names":[],"mappings":";;;;;AAEA,MAAM,SAAS,CAAC,EAAC,GAAG,EAAa;IAC7B,qBACI,8OAAC;QACD,KAAI;QACJ,KAAI;QACJ,WAAU;;;;;;AAGlB;uCACe","debugId":null}},
+    {"offset": {"line": 43, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/page.tsx"],"sourcesContent":["import Hero from \"./sections/hero/Hero\";\r\n\r\nexport default function Home() {\r\n  return (\r\n      <div>\r\n        <Hero />\r\n      </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,qBACI,8OAAC;kBACC,cAAA,8OAAC,uIAAA,CAAA,UAAI;;;;;;;;;;AAGb","debugId":null}}]
+}

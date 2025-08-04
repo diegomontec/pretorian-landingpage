@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/assets/bg-image-hero.png.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 1920, height: 1080, blurWidth: 8, blurHeight: 5, blurDataURL: \"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAaUlEQVR42m3MQQqAIBCFYa+SlWU6WqQU2KaWdf/zvBxrE7T4YXh8jKj7ES0tGOIOSidou/J9QNGKWk8QUhEYNSaUkWtMzNsE2XuIqrWoMpLKQXb+zZUYPeAnBvxVaOOh7bfBjjB+hgsJN1bTPC2Aa0iNAAAAAElFTkSuQmCC\"};\n"],"names":[],"mappings":";;;AAAA;;uCACe;IAAE,KAAA,oIAAA,CAAA,UAAG;IAAE,OAAO;IAAM,QAAQ;IAAM,WAAW;IAAG,YAAY;IAAG,aAAa;AAAgP","debugId":null}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/sections/hero/Hero.tsx"],"sourcesContent":["import Imagem from \"../../components/Imagem\";\r\nimport heroImg from \"../../assets/bg-image-hero.png\";\r\n\r\nexport const Hero = () => {\r\n  return (\r\n    <>\r\n      <Image src={heroImg} alt=\"Hero background\" />\r\n    </>\r\n  );\r\n};\r\n\r\nexport default Hero;\r\n"],"names":[],"mappings":";;;;;AACA;;;AAEO,MAAM,OAAO;IAClB,qBACE;kBACE,cAAA,8OAAC;YAAM,KAAK,sTAAA,CAAA,UAAO;YAAE,KAAI;;;;;;;AAG/B;uCAEe","debugId":null}},
+    {"offset": {"line": 59, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/helbe/pretorian-landingpage/src/app/page.tsx"],"sourcesContent":["import Hero from \"./sections/hero/Hero\";\r\n\r\nexport default function Home() {\r\n  return (\r\n      <div>\r\n        <Hero />\r\n      </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,qBACI,8OAAC;kBACC,cAAA,8OAAC,uIAAA,CAAA,UAAI;;;;;;;;;;AAGb","debugId":null}}]
+}
