@@ -6,6 +6,8 @@ import SectionFour from "./sections/section4/SectionFour";
 import SectionFive from "./sections/section5/SectionFive";
 import SectionSix from "./sections/section6/SectionSix";
 import SectionSeven from "./sections/section7/SectionSeven";
+import SectionEight from "./sections/section8/SectionEight";
+import Rodape from "./sections/rodape/Rodape";
 
 export default function Home() {
   return (
@@ -21,6 +23,8 @@ export default function Home() {
         <SectionFive/>
         <SectionSix/>
         <SectionSeven/>
+        <SectionEight/>
+        <Rodape/>
       </div>
   );
 }

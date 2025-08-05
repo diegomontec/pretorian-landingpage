@@ -30,7 +30,7 @@ const SectionFour = () => {
           />
 
           {/* Texto sobreposto — apenas no desktop */}
-          <div className="hidden sm:block absolute bottom-6 left-1/2 -translate-x-1/2 bg-[#0F1926]/90 text-white rounded-2xl px-6 py-4 text-sm sm:text-base leading-relaxed w-[90%] sm:w-[80%] max-w-2xl shadow-md">
+          <div className="hidden sm:block absolute bottom-6 left-1/2 -translate-x-1/2 bg-[#0F1926]/90 text-white rounded-2xl px-6 py-4 text-sm sm:text-[16px] leading-relaxed w-[90%] sm:w-[80%] max-w-2xl shadow-md">
             <p style={{fontFamily:'AtypDisplay'}}>
               Sob a visão e experiência de <strong>Antônio Dias</strong>, que soma mais de 15 anos em multinacionais
               e BPOs estratégicos, traz para a Pretorian Asset uma contabilidade inovadora e
