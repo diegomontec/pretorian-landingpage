@@ -82,12 +82,19 @@ const Hero = ()=>{
                                 lineNumber: 28,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                style: {
-                                    fontFamily: "AtypDisplay"
-                                },
-                                className: "bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition",
-                                children: "Agendar reunião"
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                href: "#forms-bitrix",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                    style: {
+                                        fontFamily: "AtypDisplay"
+                                    },
+                                    className: "bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition",
+                                    children: "Agendar reunião"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/sections/hero/Hero.tsx",
+                                    lineNumber: 37,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/sections/hero/Hero.tsx",
                                 lineNumber: 36,
@@ -595,6 +602,9 @@ const SectionThree = ()=>{
                     className: "flex flex-col gap-6 max-w-3xl",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                            style: {
+                                fontFamily: 'AtypDisplaySemiBold'
+                            },
                             className: "sm:text-left text-2xl sm:text-3xl lg:text-4xl font-bold leading-snug",
                             children: [
                                 "A inteligência da operação começa com ",
@@ -617,6 +627,9 @@ const SectionThree = ()=>{
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            style: {
+                                fontFamily: 'AtypDisplay'
+                            },
                             className: "sm:text-left text-white/80 mt-4 text-sm sm:text-base",
                             children: "um portfólio completo de soluções contábeis e de gestão, desenhados para atender às complexas demandas do setor financeiro"
                         }, void 0, false, {
@@ -644,7 +657,7 @@ const SectionThree = ()=>{
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "#",
+                        href: "#forms-bitrix",
                         className: "bg-[#e0c578] text-[#0F1926] font-semibold text-base sm:text-lg px-6 py-3 rounded-full transition duration-300 hover:brightness-110",
                         style: {
                             fontFamily: 'AtypDisplay'
@@ -803,7 +816,7 @@ const SectionFive = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                 style: {
-                    fontFamily: 'AtypDisplayBold'
+                    fontFamily: 'AtypDisplaySemiBold'
                 },
                 className: "text-xl sm:text-2xl lg:text-3xl font-semibold max-w-3xl leading-snug",
                 children: [
@@ -1035,14 +1048,15 @@ const SectionSix = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                 style: {
-                    fontFamily: 'AtypDisplayBold'
+                    fontFamily: 'AtypDisplaySemiBold'
                 },
                 className: "text-xl sm:text-2xl lg:text-3xl font-semibold max-w-3xl",
+                id: "forms-bitrix",
                 children: [
                     "Fale conosco e transforme sua ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                         fileName: "[project]/src/app/sections/section6/SectionSix.tsx",
-                        lineNumber: 8,
+                        lineNumber: 9,
                         columnNumber: 39
                     }, ("TURBOPACK compile-time value", void 0)),
                     "contabilidade em estratégia"
@@ -1063,12 +1077,12 @@ const SectionSix = ()=>{
                     }
                 }, void 0, false, {
                     fileName: "[project]/src/app/sections/section6/SectionSix.tsx",
-                    lineNumber: 13,
+                    lineNumber: 14,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/app/sections/section6/SectionSix.tsx",
-                lineNumber: 12,
+                lineNumber: 13,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -1444,12 +1458,19 @@ const SectionEight = ()=>{
                 lineNumber: 26,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                style: {
-                    fontFamily: "AtypDisplay"
-                },
-                className: "bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition",
-                children: "Acesse o site da Pretorian Contabilidade"
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                href: "https://pretorian.net.br/",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                    style: {
+                        fontFamily: "AtypDisplay"
+                    },
+                    className: "bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition",
+                    children: "Acesse o site da Pretorian Contabilidade"
+                }, void 0, false, {
+                    fileName: "[project]/src/app/sections/section8/SectionEight.tsx",
+                    lineNumber: 52,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/app/sections/section8/SectionEight.tsx",
                 lineNumber: 51,

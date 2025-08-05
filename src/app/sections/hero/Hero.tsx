@@ -33,16 +33,18 @@ const Hero = () => {
           </h1>
 
           {/* Botão */}
-          <button
-            style={{ fontFamily: "AtypDisplay" }}
-            className="bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition"
-          >
-            Agendar reunião
-          </button>
+          <a href="#forms-bitrix">
+            <button
+
+              style={{ fontFamily: "AtypDisplay" }}
+              className="bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition"
+            >
+              Agendar reunião
+            </button>
+          </a>
         </div>
       </div>
     </div>
   );
 };
-
 export default Hero;

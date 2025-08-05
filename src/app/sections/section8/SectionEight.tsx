@@ -48,12 +48,14 @@ const SectionEight = () => {
       </div>
 
       {/* Botão */}
-      <button
-        style={{ fontFamily: "AtypDisplay" }}
-        className="bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition"
-      >
-        Acesse o site da Pretorian Contabilidade
-      </button>
+      <a href="https://pretorian.net.br/">
+        <button
+          style={{ fontFamily: "AtypDisplay" }}
+          className="bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition"
+        >
+          Acesse o site da Pretorian Contabilidade
+        </button>
+      </a>
     </div>
   );
 };

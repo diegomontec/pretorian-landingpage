@@ -7,12 +7,12 @@ const SectionThree = () => {
         
         {/* Título e subtítulo */}
         <div className="flex flex-col gap-6 max-w-3xl">
-          <h2 className="sm:text-left text-2xl sm:text-3xl lg:text-4xl font-bold leading-snug">
+          <h2 style={{fontFamily: 'AtypDisplaySemiBold'}} className="sm:text-left text-2xl sm:text-3xl lg:text-4xl font-bold leading-snug">
             A inteligência da operação começa com <br />
             estratégia, garantindo uma execução <br />
             contábil de ponta a ponta.
           </h2>
-          <p className="sm:text-left text-white/80 mt-4 text-sm sm:text-base">
+          <p style={{fontFamily: 'AtypDisplay'}} className="sm:text-left text-white/80 mt-4 text-sm sm:text-base">
             um portfólio completo de soluções contábeis e de gestão, desenhados para
             atender às complexas demandas do setor financeiro
           </p>
@@ -26,7 +26,7 @@ const SectionThree = () => {
         {/* Botão */}
         <div>
           <a
-            href="#"
+            href="#forms-bitrix"
             className="bg-[#e0c578] text-[#0F1926] font-semibold text-base sm:text-lg px-6 py-3 rounded-full transition duration-300 hover:brightness-110"
             style={{fontFamily: 'AtypDisplay'}}
           >
