@@ -359,7 +359,7 @@ const SectionTwo = ()=>{
                                             style: {
                                                 fontFamily: 'AtypDisplaySemiBold'
                                             },
-                                            className: "text-3xl",
+                                            className: "text-3xl text-[#e0c578]",
                                             children: "+500"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
@@ -401,7 +401,7 @@ const SectionTwo = ()=>{
                                             style: {
                                                 fontFamily: 'AtypDisplaySemiBold'
                                             },
-                                            className: "text-3xl",
+                                            className: "text-3xl text-[#e0c578]",
                                             children: "+6.500"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
@@ -443,7 +443,7 @@ const SectionTwo = ()=>{
                                             style: {
                                                 fontFamily: 'AtypDisplaySemiBold'
                                             },
-                                            className: "text-3xl",
+                                            className: "text-3xl text-[#e0c578]",
                                             children: "+2 bilhões"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
@@ -474,7 +474,7 @@ const SectionTwo = ()=>{
                                             style: {
                                                 fontFamily: 'AtypDisplaySemiBold'
                                             },
-                                            className: "text-3xl",
+                                            className: "text-3xl text-[#e0c578]",
                                             children: "+20 milhões"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",

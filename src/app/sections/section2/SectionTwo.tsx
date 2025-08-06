@@ -24,24 +24,24 @@ const SectionTwo = () => {
           {/* Bloco de dados */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 text-white">
             <div className="flex flex-col gap-2">
-              <h2 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-3xl">+500</h2>
+              <h2 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-3xl text-[#e0c578]">+500</h2>
               <h3 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-lg">Empresas atendidas</h3>
               <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-sm">em todas as regiões do Brasil de diferentes portes e segmentos</p>
             </div>
 
             <div className="flex flex-col gap-2">
-              <h2 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-3xl">+6.500</h2>
+              <h2 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-3xl text-[#e0c578]">+6.500</h2>
               <h3 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-lg">Colaboradores Gerenciados</h3>
               <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-sm">registrados diretamente por nossos clientes</p>
             </div>
 
             <div className="flex flex-col gap-2">
-              <h2 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-3xl">+2 bilhões</h2>
+              <h2 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-3xl text-[#e0c578]">+2 bilhões</h2>
               <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-sm">de Reais em riqueza produzidos por nossa carteira de clientes</p>
             </div>
 
             <div className="flex flex-col gap-2">
-              <h2 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-3xl">+20 milhões</h2>
+              <h2 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-3xl text-[#e0c578]">+20 milhões</h2>
               <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-sm">recuperados em tributos pagos indevidamente por empresas do Brasil inteiro</p>
             </div>
           </div>

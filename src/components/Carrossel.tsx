@@ -24,6 +24,9 @@ const Carrossel = () => {
       <Swiper
         modules={[Navigation, Pagination, Autoplay]}
         autoplay={{ delay: 3000, disableOnInteraction: false }}
+        pagination={{
+          dynamicBullets: true,
+        }}
         loop
         className="w-full h-[300px]"
         slidesPerView={1}
