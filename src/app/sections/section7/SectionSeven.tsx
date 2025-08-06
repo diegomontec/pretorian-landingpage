@@ -10,7 +10,7 @@ const SectionSeven = () => {
                 Com <strong style={{ fontFamily: 'AtypDisplayBold' }}>20 anos</strong> de mercado, a <strong style={{ fontFamily: 'AtypDisplayBold' }}>Pretorian</strong> é referência nacional em contabilidade estratégica e performance financeira para instituições reguladas.
             </h2>
 
-            <div className="flex flex-col items-center justify-center gap-6">
+            <div className="flex flex-col items-center justify-center gap-8">
                 <Image
                     src="/assets/image-section7/image-antonioDias.png"
                     alt="Sócio Unidade SP"
