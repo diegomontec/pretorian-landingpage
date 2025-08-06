@@ -10,7 +10,7 @@ const SectionTwo = () => {
           
           {/* Título e ícone */}
           <div className="flex items-center justify-center gap-3">
-            <h2 style={{ fontFamily: 'AtypDisplayBold' }} className="text-white text-3xl sm:text-4xl">
+            <h2 style={{ fontFamily: 'AtypDisplayBold' }} className="text-[#e0c578] text-3xl sm:text-4xl">
               Nossos Impactos
             </h2>
             <Image
@@ -56,7 +56,7 @@ const SectionTwo = () => {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-l from-[#1A2028] via-[#1A2028]/80 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-l from-[#101c26] via-[#0d384c]/80 to-transparent" />
       </div>
     </div>
   );

@@ -834,6 +834,29 @@
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
 
+  .from-\[\#101c26\] {
+    --tw-gradient-from: #101c26;
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+
+  .via-\[\#0d384c\]\/80 {
+    --tw-gradient-via: rgba(13, 56, 76, .8);
+    --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-via) var(--tw-gradient-via-position), var(--tw-gradient-to) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-via-stops);
+  }
+
+  @supports (color: color(display-p3 0 0 0)) {
+    .via-\[\#0d384c\]\/80 {
+      --tw-gradient-via: color(display-p3 .101969 .216166 .290739 / .8);
+    }
+  }
+
+  @supports (color: lab(0% 0 0)) {
+    .via-\[\#0d384c\]\/80 {
+      --tw-gradient-via: lab(21.4415% -8.94654 -16.7855 / .8);
+    }
+  }
+
   .via-\[\#1A2028\]\/80 {
     --tw-gradient-via: rgba(26, 32, 40, .8);
     --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-via) var(--tw-gradient-via-position), var(--tw-gradient-to) var(--tw-gradient-to-position);
@@ -849,6 +872,23 @@
   @supports (color: lab(0% 0 0)) {
     .via-\[\#1A2028\]\/80 {
       --tw-gradient-via: lab(11.9171% -1.01715 -6.36995 / .8);
+    }
+  }
+
+  .to-\[\#0d384c\]\/80 {
+    --tw-gradient-to: rgba(13, 56, 76, .8);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+
+  @supports (color: color(display-p3 0 0 0)) {
+    .to-\[\#0d384c\]\/80 {
+      --tw-gradient-to: color(display-p3 .101969 .216166 .290739 / .8);
+    }
+  }
+
+  @supports (color: lab(0% 0 0)) {
+    .to-\[\#0d384c\]\/80 {
+      --tw-gradient-to: lab(21.4415% -8.94654 -16.7855 / .8);
     }
   }
 
@@ -999,6 +1039,10 @@
     color: #0f1926;
   }
 
+  .text-\[\#0d384c\] {
+    color: #0d384c;
+  }
+
   .text-\[\#d4b866\] {
     color: #d4b866;
   }
@@ -1007,8 +1051,16 @@
     color: #e0c578;
   }
 
+  .text-\[\#fcfcfc\] {
+    color: #fcfcfc;
+  }
+
   .text-\[\#ffde7b\] {
     color: #ffde7b;
+  }
+
+  .text-\[text-\[\#e0c578\]\] {
+    color: text-[#e0c578];
   }
 
   .text-white {
