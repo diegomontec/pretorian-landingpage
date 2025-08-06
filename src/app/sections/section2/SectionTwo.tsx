@@ -56,7 +56,7 @@ const SectionTwo = () => {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-l from-[#101c26] via-[#0d384c]/80 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-l to-transparent" />
       </div>
     </div>
   );
