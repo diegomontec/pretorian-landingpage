@@ -15,7 +15,7 @@ const SectionSeven = () => {
                     src="/assets/image-section7/image-antonioDias.png"
                     alt="Sócio Unidade SP"
                     width={260}
-                    height={180}
+                    height={3850}
                     className=""
                 />
 

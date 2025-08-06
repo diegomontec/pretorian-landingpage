@@ -529,7 +529,7 @@ const SectionTwo = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "absolute inset-0 bg-gradient-to-l to-transparent"
+                        className: "absolute inset-0 bg-gradient-to-l from-[#101a25] via-[#173246]/20 to-transparent"
                     }, void 0, false, {
                         fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
                         lineNumber: 59,
@@ -739,7 +739,7 @@ const SectionFour = ()=>{
                                     children: [
                                         "Sob a visão e experiência de ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "Antônio Dias"
+                                            children: "Antonio Dias"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section4/SectionFour.tsx",
                                             lineNumber: 35,
@@ -1150,7 +1150,7 @@ const SectionSeven = ()=>{
                         src: "/assets/image-section7/image-antonioDias.png",
                         alt: "Sócio Unidade SP",
                         width: 260,
-                        height: 180,
+                        height: 3850,
                         className: ""
                     }, void 0, false, {
                         fileName: "[project]/src/app/sections/section7/SectionSeven.tsx",
