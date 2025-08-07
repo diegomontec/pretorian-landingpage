@@ -39,7 +39,7 @@ const SectionOne = () => {
 
       {/* Conteúdo posicionado na metade direita */}
       <div className="absolute right-0 px-12 top-0 h-full w-full sm:w-1/2 flex items-center sm:px-12 lg:px-24 z-10 text-white">
-        <div className="w-full max-w-xl flex flex-col gap-12 text-left">
+        <div className="w-full max-w-xl flex flex-col gap-12 text-center">
           
           {/* Logo */}
           <div className="flex flex-col items-center">
@@ -67,7 +67,7 @@ const SectionOne = () => {
             style={{ fontFamily: 'AtypDisplay' }}
             className="text-xl sm:text-lg md:text-xl lg:text-xl leading-relaxed"
           >
-            Unimos a força de uma empresa que já impactou mais de <strong>R$ 2 bilhões</strong> em operações no Brasil,
+            Unimos a força de uma empresa que já impactou mais de <br /><strong>R$ 2 bilhões</strong> em operações no Brasil,
             com a inteligência operacional de quem vive e entende o que é <strong>escalar negócios</strong>.
           </p>
         </div>

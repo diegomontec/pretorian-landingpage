@@ -8,13 +8,10 @@ const SectionThree = () => {
         {/* Título e subtítulo */}
         <div className="flex flex-col gap-6 max-w-3xl">
           <h2 style={{fontFamily: 'AtypDisplaySemiBold'}} className="sm:text-left text-2xl sm:text-3xl lg:text-4xl font-bold leading-snug">
-            A inteligência da operação começa com <br />
-            estratégia, garantindo uma execução <br />
-            contábil de ponta a ponta.
+            A inteligência da operação começa com estratégia e se concretiza com uma execução contábil e financeira de ponta a ponta.
           </h2>
-          <p style={{fontFamily: 'AtypDisplay'}} className="sm:text-left text-white/80 mt-4 text-sm sm:text-base">
-            um portfólio completo de soluções contábeis e de gestão, desenhados para
-            atender às complexas demandas do setor financeiro
+          <p style={{fontFamily: 'AtypDisplay'}} className="sm:text-left text-white/80 mt-4 text-sm sm:text-xl">
+            Um portfólio de serviços completos desenhados para atender a alta exigência do mercado financeiro.
           </p>
         </div>
 
@@ -26,11 +23,11 @@ const SectionThree = () => {
         {/* Botão */}
         <div>
           <a
-            href="#forms-bitrix"
+            href="https://wa.me/5515997705571"
             className="bg-[#e0c578] text-[#0F1926] font-semibold text-base sm:text-lg px-6 py-3 rounded-full transition duration-300 hover:brightness-110"
             style={{fontFamily: 'AtypDisplay'}}
           >
-            Entre em contato conosco
+            Entre em contato pelo WhatsApp
           </a>
         </div>
       </div>
