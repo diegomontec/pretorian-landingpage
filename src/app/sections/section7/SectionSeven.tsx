@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const SectionSeven = () => {
     return (
-        <div className="w-full bg-[#1A2028] text-white py-20 px- sm:px-12 lg:px-24 flex flex-col items-center text-center gap-20">
+        <div className="w-full bg-[#1A2028] text-white py-20 px-4 sm:px-12 lg:px-24 flex flex-col items-center text-center gap-20">
             <h2
                 style={{ fontFamily: 'AtypDisplayLight' }}
                 className="text-xl sm:text-2xl lg:text-3xl font-semibold max-w-3xl"
