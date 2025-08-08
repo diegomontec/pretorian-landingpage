@@ -44,9 +44,9 @@ const Rodape = () => {
           <p style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-2xl">
             Contato
           </p>
-          <p style={{ fontFamily: 'AtypDisplay' }}>
-            Telefone: (15) 9 9770-5571 e (82) 3035-4642
-          </p>
+          <div className="flex gap-2" ><p>Telefone:</p>
+            <p style={{ fontFamily: 'inter' }} className="text-" >(15) 9 9770-5571 e (82) 3035-4642</p>
+          </div>
           <p style={{ fontFamily: 'AtypDisplay' }}>
             Email: antonio.dias@pretorian.net.br
           </p>

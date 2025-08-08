@@ -22,11 +22,16 @@ const Carrossel = () => {
   return (
     <div className="w-full px-4 py-6">
       <Swiper
+
         modules={[Navigation, Pagination, Autoplay]}
         autoplay={{ delay: 3000, disableOnInteraction: false }}
         pagination={{
           dynamicBullets: true,
         }}
+        style={{
+          paddingBottom: "30px",
+          "--swiper-pagination-color": "#e0c578",
+        }}        
         loop
         className="w-full h-[300px]"
         slidesPerView={1}

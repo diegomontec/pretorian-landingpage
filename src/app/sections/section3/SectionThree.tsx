@@ -8,7 +8,7 @@ const SectionThree = () => {
         {/* Título e subtítulo */}
         <div className="flex flex-col gap-6 max-w-3xl">
           <h2 style={{fontFamily: 'AtypDisplaySemiBold'}} className="sm:text-left text-2xl sm:text-3xl lg:text-4xl font-bold leading-snug">
-            A inteligência da operação começa com estratégia e se concretiza com uma execução contábil e financeira de ponta a ponta.
+            A inteligência da operação começa com estratégia e se concretiza com uma execução contábil e financeira de ponta a ponta
           </h2>
           <p style={{fontFamily: 'AtypDisplay'}} className="sm:text-left text-white/80 mt-4 text-sm sm:text-xl">
             Um portfólio de serviços completos desenhados para atender a alta exigência do mercado financeiro.

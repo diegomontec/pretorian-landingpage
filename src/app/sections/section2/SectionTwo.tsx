@@ -5,24 +5,24 @@ const SectionTwo = () => {
     <div className="relative w-full h-screen overflow-hidden flex flex-col sm:flex-row bg-[#223145]">
       
       {/* Lado esquerdo com conteúdo */}
-      <div className="w-full sm:w-1/2 flex items-center justify-center px-6 sm:px-12 lg:px-24 py-12 sm:py-0">
-        <div className="w-full max-w-xl flex flex-col items-center gap-12 text-center">
+      <div className="w-full sm:w-1/2 flex items-center px-6 sm:px-12 lg:px-24 py-12 sm:py-0">
+        <div className="w-full max-w-5xl items-center flex flex-col gap-12 text-left">
           
           {/* Título e ícone */}
-          <div className="flex items-center justify-center gap-3">
+          <div className="flex items-center justify-start gap-3">
             <h2 style={{ fontFamily: 'AtypDisplayBold' }} className="text-[#e0c578] text-3xl sm:text-4xl">
               Nossos Impactos
             </h2>
             <Image
               src="/assets/icone-alvo-section2.png"
               alt="Ícone Alvo"
-              width={80}
-              height={80}
+              width={100}
+              height={100}
             />
           </div>
 
           {/* Bloco de dados */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 text-white">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8 text-white">
             <div className="flex flex-col gap-2">
               <h2 style={{ fontFamily: 'AtypDisplayBold' }} className="text-3xl text-[#e0c578]">+ 500</h2>
               <h3 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-xl">Empresas atendidas</h3>

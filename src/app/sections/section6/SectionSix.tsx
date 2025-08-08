@@ -1,13 +1,12 @@
 const SectionSix = () => {
   return (
-    <div className="w-full bg-[#1A2028] text-white py-20 px-6 sm:px-12 lg:px-24 flex flex-col items-center text-center gap-20">
+    <div className="w-full bg-[#1A2028] text-white py-20 px-6 sm:px-12 lg:px-24 flex flex-col items-center text-center gap-16">
       <h2
         style={{ fontFamily: 'AtypDisplaySemiBold' }}
         className="text-xl sm:text-2xl lg:text-3xl font-semibold max-w-3xl"
         id="forms-bitrix"
       >
-        Fale conosco e transforme sua <br />
-        contabilidade em estratégia
+        Sua empresa está pronta para escalar <br /> no mercado financeiro? Fale conosco!
       </h2>
 
       <div className="w-full max-w-6xl">

@@ -17,24 +17,24 @@ const SectionFour = () => {
       <div className="relative z-10 flex flex-col items-center justify-center gap-8 w-full">
         
         {/* Bloco com imagem e texto */}
-        <div className="relative w-full max-w-2xl shadow-xl rounded-xl overflow-hidden">
+        <div className="relative w-full max-w-2xl  shadow-xl rounded-4xl overflow-hidden">
           
           {/* Imagem do CEO */}
           <Image
             src="/assets/image-ceo-section4.png"
             alt="Antônio Dias"
             width={600}
-            height={600}
+            height={800}
             className="w-full h-auto object-cover sm:h-[600px] "
             priority
           />
 
           {/* Texto sobreposto — apenas no desktop */}
-          <div className="hidden sm:block absolute bottom-6 left-1/2 -translate-x-1/2 bg-[#0F1926]/90 text-white rounded-2xl px-6 py-4 text-sm sm:text-[16px] leading-relaxed w-[90%] sm:w-[80%] max-w-2xl shadow-md">
+          <div className="hidden sm:block absolute bottom-6 text-center left-1/2 -translate-x-1/2 bg-[#0F1926]/90 text-white rounded-2xl px-6 py-4 text-sm sm:text-[20px] leading-relaxed w-[90%] sm:w-[80%] max-w-2xl shadow-md">
             <p style={{fontFamily:'AtypDisplay'}}>
               Sob a visão e experiência de <strong>Antonio Dias</strong>, que soma mais de 15 anos em multinacionais
               e BPOs estratégicos, traz para a Pretorian Asset uma contabilidade inovadora e
-              superior para o setor financeiro.
+              superior para o mercado financeiro e capitais.
             </p>
           </div>
         </div>

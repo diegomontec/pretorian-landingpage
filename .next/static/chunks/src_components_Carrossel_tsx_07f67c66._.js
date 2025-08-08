@@ -71,6 +71,10 @@ const Carrossel = ()=>{
             pagination: {
                 dynamicBullets: true
             },
+            style: {
+                paddingBottom: "30px",
+                "--swiper-pagination-color": "#e0c578"
+            },
             loop: true,
             className: "w-full h-[300px]",
             slidesPerView: 1,
@@ -96,17 +100,17 @@ const Carrossel = ()=>{
                             className: "object-cover transition-transform duration-500 group-hover:scale-110"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Carrossel.tsx",
-                            lineNumber: 49,
+                            lineNumber: 54,
                             columnNumber: 15
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/src/components/Carrossel.tsx",
-                        lineNumber: 48,
+                        lineNumber: 53,
                         columnNumber: 13
                     }, ("TURBOPACK compile-time value", void 0))
                 }, item.id, false, {
                     fileName: "[project]/src/components/Carrossel.tsx",
-                    lineNumber: 47,
+                    lineNumber: 52,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0)))
         }, void 0, false, {
