@@ -2,9 +2,7 @@ const SectionFive = () => {
   return (
     <div className="w-full bg-gradient-to-t from-[#1A2028] to-[#233446] text-white py-20 px-6 sm:px-12 lg:px-24 flex flex-col items-center text-center gap-24">
       <h2 style={{fontFamily: 'AtypDisplaySemiBold'}} className="text-xl sm:text-2xl lg:text-3xl font-semibold max-w-3xl leading-snug">
-        Mais do que uma contabilidade, somos<br />
-        um parceiro estratégico de altíssimo<br />
-        nível para operações financeiras
+        Mais do que uma contabilidade, somos um parceiro estratégico de altíssimo nível para operações financeiras
       </h2>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 max-w-5xl w-full">

@@ -6,7 +6,7 @@ const SectionSix = () => {
         className="text-xl sm:text-2xl lg:text-3xl font-semibold max-w-3xl"
         id="forms-bitrix"
       >
-        Sua empresa está pronta para escalar <br /> no mercado financeiro? Fale conosco!
+        Sua empresa está pronta para escalar no mercado financeiro? Fale conosco!
       </h2>
 
       <div className="w-full max-w-6xl">
