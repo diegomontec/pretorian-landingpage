@@ -23,6 +23,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$mo
 ;
 ;
 ;
+;
+;
+;
 const data = [
     {
         id: '1',
@@ -100,27 +103,27 @@ const Carrossel = ()=>{
                             className: "object-cover transition-transform duration-500 group-hover:scale-110"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Carrossel.tsx",
-                            lineNumber: 54,
+                            lineNumber: 57,
                             columnNumber: 15
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/src/components/Carrossel.tsx",
-                        lineNumber: 53,
+                        lineNumber: 56,
                         columnNumber: 13
                     }, ("TURBOPACK compile-time value", void 0))
                 }, item.id, false, {
                     fileName: "[project]/src/components/Carrossel.tsx",
-                    lineNumber: 52,
+                    lineNumber: 55,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0)))
         }, void 0, false, {
             fileName: "[project]/src/components/Carrossel.tsx",
-            lineNumber: 24,
+            lineNumber: 27,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/src/components/Carrossel.tsx",
-        lineNumber: 23,
+        lineNumber: 26,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
