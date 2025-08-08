@@ -44,15 +44,17 @@ const Rodape = () => {
           <p style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-2xl">
             Contato
           </p>
-          <div className="flex gap-2" ><p>Telefone:</p>
-            <p style={{ fontFamily: 'inter' }} className="text-" >(15) 9 9770-5571 e (82) 3035-4642</p>
+          <div className="flex flex-col gap-2" style={{ fontFamily: 'Inter' }} >
+            <p>
+              Telefone: (15) 9 9770-5571 e (82) 3035-4642
+            </p>
+            <p>
+              Email: antonio.dias@pretorian.net.br
+            </p>
+            <p>
+              Endereço em São Paulo: Rua Manuel Guedes n° 504 - Jardim Europa SP, CEP 04536-908
+            </p>
           </div>
-          <p style={{ fontFamily: 'AtypDisplay' }}>
-            Email: antonio.dias@pretorian.net.br
-          </p>
-          <p style={{ fontFamily: 'AtypDisplay' }}>
-            Endereço em São Paulo: Rua Manuel Guedes n° 504 - Jardim Europa SP, CEP 04536-908
-          </p>
         </div>
 
         {/* Botão */}

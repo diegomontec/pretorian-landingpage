@@ -1573,50 +1573,36 @@ const Rodape = ()=>{
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "flex gap-2",
+                                className: "flex flex-col gap-2",
+                                style: {
+                                    fontFamily: 'Inter'
+                                },
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: "Telefone:"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                        lineNumber: 47,
-                                        columnNumber: 40
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        style: {
-                                            fontFamily: 'inter'
-                                        },
-                                        className: "text-",
-                                        children: "(15) 9 9770-5571 e (82) 3035-4642"
+                                        children: "Telefone: (15) 9 9770-5571 e (82) 3035-4642"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
                                         lineNumber: 48,
+                                        columnNumber: 13
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        children: "Email: antonio.dias@pretorian.net.br"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
+                                        lineNumber: 51,
+                                        columnNumber: 13
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        children: "Endereço em São Paulo: Rua Manuel Guedes n° 504 - Jardim Europa SP, CEP 04536-908"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
+                                        lineNumber: 54,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
                                 lineNumber: 47,
-                                columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                style: {
-                                    fontFamily: 'AtypDisplay'
-                                },
-                                children: "Email: antonio.dias@pretorian.net.br"
-                            }, void 0, false, {
-                                fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                lineNumber: 50,
-                                columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                style: {
-                                    fontFamily: 'AtypDisplay'
-                                },
-                                children: "Endereço em São Paulo: Rua Manuel Guedes n° 504 - Jardim Europa SP, CEP 04536-908"
-                            }, void 0, false, {
-                                fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                lineNumber: 53,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
@@ -1640,29 +1626,29 @@ const Rodape = ()=>{
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["FaWhatsapp"], {}, void 0, false, {
                                             fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                            lineNumber: 65,
+                                            lineNumber: 67,
                                             columnNumber: 57
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         " Fale conosco "
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                    lineNumber: 65,
+                                    lineNumber: 67,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                lineNumber: 61,
+                                lineNumber: 63,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                            lineNumber: 60,
+                            lineNumber: 62,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                        lineNumber: 59,
+                        lineNumber: 61,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1676,12 +1662,12 @@ const Rodape = ()=>{
                                     className: "text-[#ffde7b] text-3xl"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                    lineNumber: 73,
+                                    lineNumber: 75,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                lineNumber: 72,
+                                lineNumber: 74,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1692,12 +1678,12 @@ const Rodape = ()=>{
                                     className: "text-[#ffde7b] text-3xl"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                    lineNumber: 76,
+                                    lineNumber: 78,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                lineNumber: 75,
+                                lineNumber: 77,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1708,18 +1694,18 @@ const Rodape = ()=>{
                                     className: "text-[#ffde7b] text-3xl"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                    lineNumber: 79,
+                                    lineNumber: 81,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                                lineNumber: 78,
+                                lineNumber: 80,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/sections/rodape/Rodape.tsx",
-                        lineNumber: 71,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]

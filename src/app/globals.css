@@ -23,3 +23,8 @@
   src: url('/fonts/Atyp/AtypDisplay-Light.ttf') format('truetype');
 
 }
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/Atyp/Inter-Regular.woff2') format('woff2'),
+}
