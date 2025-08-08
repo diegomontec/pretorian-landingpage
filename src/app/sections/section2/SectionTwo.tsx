@@ -23,28 +23,28 @@ const SectionTwo = () => {
 
           {/* Bloco de dados */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8 text-white">
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-col gap-2 max-w-full">
               <h2 style={{ fontFamily: 'AtypDisplayBold' }} className="text-3xl text-[#e0c578]">+ 500</h2>
               <h3 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-xl">Empresas atendidas</h3>
-              <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-lg">em todas as regiões do Brasil de diferentes portes e segmentos</p>
+              <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-lg max-w-full truncate">em todas as regiões do Brasil de diferentes portes e segmentos</p>
             </div>
 
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-col gap-2 max-w-full">
               <h2 style={{ fontFamily: 'AtypDisplayBold' }} className="text-3xl text-[#e0c578]">+ 6.500</h2>
               <h3 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-xl">Colaboradores Gerenciados</h3>
-              <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-lg">registrados diretamente por nossos clientes</p>
+              <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-lg max-w-full truncate">registrados diretamente por nossos clientes</p>
             </div>
 
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-col gap-2 max-w-full">
               <h2 style={{ fontFamily: 'AtypDisplayBold' }} className="text-4xl text-[#e0c578]">+ 2 bilhões</h2>
               <h3 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-xl">Riqueza gerada</h3>
-              <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-lg">por nossa carteira de clientes</p>
+              <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-lg max-w-full truncate">por nossa carteira de clientes</p>
             </div>
 
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-col gap-2 max-w-full">
               <h2 style={{ fontFamily: 'AtypDisplayBold' }} className="text-4xl text-[#e0c578]">+ 20 milhões</h2>
               <h3 style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-xl">Tributos recuperados</h3>
-              <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-lg">pagos indevidamente por empresas em todo o Brasil</p>
+              <p style={{ fontFamily: 'AtypDisplayLight' }} className="text-lg max-w-full truncate">pagos indevidamente por empresas em todo o Brasil</p>
             </div>
           </div>
         </div>
