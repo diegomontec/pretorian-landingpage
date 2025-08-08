@@ -74,10 +74,10 @@ const Carrossel = ()=>{
             pagination: {
                 dynamicBullets: true
             },
-            style: {
-                paddingBottom: "30px",
-                "--swiper-pagination-color": "#e0c578"
-            },
+            // style={{
+            //   paddingBottom: "30px",
+            //   "--swiper-pagination-color": "#e0c578",
+            // }} 
             loop: true,
             className: "w-full h-[300px]",
             slidesPerView: 1,

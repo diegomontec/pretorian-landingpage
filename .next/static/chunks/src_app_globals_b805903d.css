@@ -652,6 +652,10 @@
     max-width: var(--container-7xl);
   }
 
+  .max-w-full {
+    max-width: 100%;
+  }
+
   .max-w-md {
     max-width: var(--container-md);
   }
@@ -743,6 +747,12 @@
 
   .gap-32 {
     gap: calc(var(--spacing) * 32);
+  }
+
+  .truncate {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
   }
 
   .overflow-hidden {
@@ -1113,6 +1123,12 @@
   @media (min-width: 40rem) {
     .sm\:h-\[600px\] {
       height: 600px;
+    }
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:h-screen {
+      height: 100vh;
     }
   }
 
