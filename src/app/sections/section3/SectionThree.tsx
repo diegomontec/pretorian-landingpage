@@ -2,8 +2,8 @@ import Carrossel from "@/components/Carrossel";
 
 const SectionThree = () => {
   return (
-    <div className="w-full bg-gradient-to-b from-[#1A2028] to-[#233446] text-white py-20 px-6 sm:px-12 lg:px-24">
-      <div className="max-w-7xl mx-auto flex flex-col items-center text-center gap-10">
+    <div className=" bg-gradient-to-b from-[#1A2028] to-[#233446] text-white ">
+      <div className="sm:max-w-7xl mx-auto flex flex-col items-center py-20 px-6 sm:px-12 lg:px-24 text-center gap-10">
         
         {/* Título e subtítulo */}
         <div className="flex flex-col gap-6 max-w-3xl">
@@ -21,11 +21,11 @@ const SectionThree = () => {
         </div>
 
         {/* Botão */}
-        <div>
+        <div className="w-full max-w-2xl flex justify-center">
           <a
             href="#forms-bitrix"
-            className="bg-[#e0c578] text-[#0F1926] font-semibold text-base sm:text-lg px-6 py-3 rounded-full transition duration-300 hover:brightness-110"
-            style={{fontFamily: 'AtypDisplay'}}
+            className="bg-[#e0c578] text-[#0F1926] cursor-pointer text-base sm:text-xl px-3 sm:px-8 py-4 rounded-full hover:brightness-110 transition"
+            style={{fontFamily: 'AtypDisplaySemiBold'}}
           >
             Entre em contato com um especialista
           </a>

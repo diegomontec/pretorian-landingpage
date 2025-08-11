@@ -7,7 +7,7 @@ import { FaWhatsapp } from "react-icons/fa";
 
 const Rodape = () => {
   return (
-    <div className="w-full bg-gradient-to-b from-[#1A2028] to-[#233446] text-white py-24 px-6 sm:px-12 lg:px-24 flex flex-col items-center justify-center text-center gap-4 sm:gap-24">
+    <div className="w-full bg-gradient-to-b from-[#1A2028] to-[#233446] text-white py-16 px-6 sm:px-12 lg:px-24 flex flex-col items-center justify-center text-center gap-4 sm:gap-24">
       
       {/* Logo */}
       <div className="flex items-center justify-center text-center gap-2 sm:gap-4">
@@ -40,7 +40,7 @@ const Rodape = () => {
 
       <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-24 px-4 py-10 text-white">
         {/* Bloco de contato */}
-        <div className="text-center md:text-left flex flex-col gap-2 max-w-md">
+        <div className="text-left md:text-left flex flex-col gap-2 max-w-md">
           <p style={{ fontFamily: 'AtypDisplaySemiBold' }} className="text-2xl">
             Contato
           </p>

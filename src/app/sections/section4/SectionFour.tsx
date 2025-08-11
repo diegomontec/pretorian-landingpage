@@ -41,11 +41,11 @@ const SectionFour = () => {
 
         {/* Texto fora da imagem — apenas no mobile */}
         <div className="sm:hidden bg-[#111827] sm:text-2xl text-white rounded-2xl px-6 py-4 leading-relaxed w-full max-w-xl shadow-md">
-          <p>
-            Sob a visão e experiência de <strong>Antônio Dias</strong>, que soma mais de 15 anos em multinacionais
-            e BPOs estratégicos, traz para a Pretorian Asset uma contabilidade inovadora e
-            superior para o setor financeiro.
-          </p>
+            <p style={{fontFamily:'AtypDisplay'}}>
+              Sob a visão e experiência de <strong>Antonio Dias</strong>, que soma mais de 15 anos em multinacionais
+              e BPOs estratégicos, traz para a Pretorian Asset uma contabilidade inovadora e
+              superior para o mercado financeiro e capitais.
+            </p>
         </div>
       </div>
     </div>

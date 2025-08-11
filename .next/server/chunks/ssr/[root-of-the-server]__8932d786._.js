@@ -298,10 +298,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 const SectionTwo = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "relative w-full h-auto sm:h-screen overflow-hidden flex flex-col sm:flex-row bg-[#223145]",
+        className: "relative w-full h-auto lg:h-screen overflow-hidden flex flex-col lg:flex-row bg-[#223145]",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "w-full sm:w-1/2 flex items-center px-6 sm:px-12 lg:px-24 py-12 sm:py-0",
+                className: "w-full lg:w-1/2 flex items-center px-6 sm:px-12 lg:px-16 py-12 sm:py-10 xl:py-24",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "w-full max-w-5xl items-center flex flex-col gap-8 text-left",
                     children: [
@@ -312,7 +312,7 @@ const SectionTwo = ()=>{
                                     style: {
                                         fontFamily: 'AtypDisplayBold'
                                     },
-                                    className: "text-[#e0c578] text-3xl sm:text-4xl",
+                                    className: "text-[#e0c578] text-3xl md:text-4xl lg:text-5xl leading-tight",
                                     children: "Nossos Impactos"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
@@ -326,7 +326,7 @@ const SectionTwo = ()=>{
                                     height: 100
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                    lineNumber: 16,
+                                    lineNumber: 19,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
@@ -336,7 +336,7 @@ const SectionTwo = ()=>{
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8 text-white",
+                            className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8  text-white",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "flex flex-col gap-2",
@@ -345,39 +345,39 @@ const SectionTwo = ()=>{
                                             style: {
                                                 fontFamily: 'AtypDisplayBold'
                                             },
-                                            className: "text-3xl sm:text-3xl text-[#e0c578]",
+                                            className: "text-[#e0c578] text-2xl sm:text-3xl md:text-4xl leading-tight",
                                             children: "+ 500"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 27,
+                                            lineNumber: 30,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             style: {
                                                 fontFamily: 'AtypDisplaySemiBold'
                                             },
-                                            className: "text-lg sm:text-xl",
+                                            className: "text-base sm:text-lg md:text-xl leading-snug",
                                             children: "Empresas atendidas"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 28,
+                                            lineNumber: 36,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             style: {
                                                 fontFamily: 'AtypDisplayLight'
                                             },
-                                            className: "text-sm sm:text-lg",
+                                            className: "text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed md:leading-normal",
                                             children: "em todas as regiões do Brasil de diferentes portes e segmentos"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 29,
+                                            lineNumber: 42,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                    lineNumber: 26,
+                                    lineNumber: 29,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -387,39 +387,39 @@ const SectionTwo = ()=>{
                                             style: {
                                                 fontFamily: 'AtypDisplayBold'
                                             },
-                                            className: "text-3xl sm:text-3xl text-[#e0c578]",
+                                            className: "text-[#e0c578] text-2xl sm:text-3xl md:text-4xl leading-tight",
                                             children: "+ 6.500"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 33,
+                                            lineNumber: 51,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             style: {
                                                 fontFamily: 'AtypDisplaySemiBold'
                                             },
-                                            className: "text-lg sm:text-xl",
+                                            className: "text-base sm:text-lg md:text-xl leading-snug",
                                             children: "Colaboradores Gerenciados"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 34,
+                                            lineNumber: 57,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             style: {
                                                 fontFamily: 'AtypDisplayLight'
                                             },
-                                            className: "text-sm sm:text-lg",
+                                            className: "text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed md:leading-normal",
                                             children: "registrados diretamente por nossos clientes"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 35,
+                                            lineNumber: 63,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                    lineNumber: 32,
+                                    lineNumber: 50,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -429,39 +429,39 @@ const SectionTwo = ()=>{
                                             style: {
                                                 fontFamily: 'AtypDisplayBold'
                                             },
-                                            className: "text-4xl sm:text-4xl text-[#e0c578]",
+                                            className: "text-[#e0c578] text-3xl sm:text-4xl md:text-5xl leading-tight",
                                             children: "+ 2 bilhões"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 39,
+                                            lineNumber: 72,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             style: {
                                                 fontFamily: 'AtypDisplaySemiBold'
                                             },
-                                            className: "text-lg sm:text-xl",
+                                            className: "text-base sm:text-lg md:text-xl leading-snug",
                                             children: "Riqueza gerada"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 40,
+                                            lineNumber: 78,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             style: {
                                                 fontFamily: 'AtypDisplayLight'
                                             },
-                                            className: "text-sm sm:text-lg",
+                                            className: "text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed md:leading-normal",
                                             children: "por nossa carteira de clientes"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 41,
+                                            lineNumber: 84,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                    lineNumber: 38,
+                                    lineNumber: 71,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -471,45 +471,45 @@ const SectionTwo = ()=>{
                                             style: {
                                                 fontFamily: 'AtypDisplayBold'
                                             },
-                                            className: "text-4xl sm:text-4xl text-[#e0c578]",
+                                            className: "text-[#e0c578] text-3xl sm:text-4xl md:text-5xl leading-tight",
                                             children: "+ 20 milhões"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 45,
+                                            lineNumber: 93,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             style: {
                                                 fontFamily: 'AtypDisplaySemiBold'
                                             },
-                                            className: "text-lg sm:text-xl",
+                                            className: "text-base sm:text-lg md:text-xl leading-snug",
                                             children: "Tributos recuperados"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 46,
+                                            lineNumber: 99,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             style: {
                                                 fontFamily: 'AtypDisplayLight'
                                             },
-                                            className: "text-sm sm:text-lg",
+                                            className: "text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed md:leading-normal",
                                             children: "pagos indevidamente por empresas em todo o Brasil"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                            lineNumber: 47,
+                                            lineNumber: 105,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                                    lineNumber: 44,
+                                    lineNumber: 92,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                            lineNumber: 25,
+                            lineNumber: 28,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
@@ -533,20 +533,20 @@ const SectionTwo = ()=>{
                         className: "object-cover"
                     }, void 0, false, {
                         fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                        lineNumber: 55,
+                        lineNumber: 118,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "absolute inset-0 bg-gradient-to-l from-[#101a25] via-[#173246]/20 to-transparent"
                     }, void 0, false, {
                         fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                        lineNumber: 61,
+                        lineNumber: 124,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/sections/section2/SectionTwo.tsx",
-                lineNumber: 54,
+                lineNumber: 117,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -602,9 +602,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Carross
 ;
 const SectionThree = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "w-full bg-gradient-to-b from-[#1A2028] to-[#233446] text-white py-20 px-6 sm:px-12 lg:px-24",
+        className: " bg-gradient-to-b from-[#1A2028] to-[#233446] text-white ",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "max-w-7xl mx-auto flex flex-col items-center text-center gap-10",
+            className: "sm:max-w-7xl mx-auto flex flex-col items-center py-20 px-6 sm:px-12 lg:px-24 text-center gap-10",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "flex flex-col gap-6 max-w-3xl",
@@ -650,11 +650,12 @@ const SectionThree = ()=>{
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "w-full max-w-2xl flex justify-center",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                         href: "#forms-bitrix",
-                        className: "bg-[#e0c578] text-[#0F1926] font-semibold text-base sm:text-lg px-6 py-3 rounded-full transition duration-300 hover:brightness-110",
+                        className: "bg-[#e0c578] text-[#0F1926] cursor-pointer text-base sm:text-xl px-3 sm:px-8 py-4 rounded-full hover:brightness-110 transition",
                         style: {
-                            fontFamily: 'AtypDisplay'
+                            fontFamily: 'AtypDisplaySemiBold'
                         },
                         children: "Entre em contato com um especialista"
                     }, void 0, false, {
@@ -760,21 +761,24 @@ const SectionFour = ()=>{
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "sm:hidden bg-[#111827] sm:text-2xl text-white rounded-2xl px-6 py-4 leading-relaxed w-full max-w-xl shadow-md",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            style: {
+                                fontFamily: 'AtypDisplay'
+                            },
                             children: [
                                 "Sob a visão e experiência de ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                    children: "Antônio Dias"
+                                    children: "Antonio Dias"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/sections/section4/SectionFour.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 42
+                                    columnNumber: 44
                                 }, ("TURBOPACK compile-time value", void 0)),
-                                ", que soma mais de 15 anos em multinacionais e BPOs estratégicos, traz para a Pretorian Asset uma contabilidade inovadora e superior para o setor financeiro."
+                                ", que soma mais de 15 anos em multinacionais e BPOs estratégicos, traz para a Pretorian Asset uma contabilidade inovadora e superior para o mercado financeiro e capitais."
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/sections/section4/SectionFour.tsx",
                             lineNumber: 44,
-                            columnNumber: 11
+                            columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/src/app/sections/section4/SectionFour.tsx",
@@ -812,7 +816,7 @@ const SectionFive = ()=>{
                 style: {
                     fontFamily: 'AtypDisplaySemiBold'
                 },
-                className: "text-xl sm:text-2xl lg:text-3xl font-semibold max-w-3xl leading-snug",
+                className: "text-xl text-left sm:text-center sm:text-2xl lg:text-3xl font-semibold max-w-3xl leading-snug",
                 children: "Mais do que uma contabilidade, somos um parceiro estratégico de altíssimo nível para operações financeiras"
             }, void 0, false, {
                 fileName: "[project]/src/app/sections/section5/SectionFive.tsx",
@@ -1113,7 +1117,7 @@ function SectionSeven() {
         className: "w-full bg-gradient-to-b from-[#1A2028] to-[#233446] text-white py-20 px-6 sm:px-12 lg:px-16",
         "aria-labelledby": "section-seven-title",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "mx-auto max-w-6xl flex flex-col items-center text-center gap-12",
+            className: "mx-auto max-w-6xl flex flex-col items-center text-left md:text-center gap-12",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     id: "section-seven-title",
@@ -1417,7 +1421,7 @@ const SectionEight = ()=>{
                     style: {
                         fontFamily: "AtypDisplay"
                     },
-                    className: "bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-6 py-3 rounded-full hover:brightness-110 transition",
+                    className: "bg-[#e0c578] text-[#0F1926] cursor-pointer font-semibold text-base sm:text-lg px-4 md:px-8 py-3 rounded-full hover:brightness-110 transition",
                     children: "Acesse o site da Pretorian Contabilidade"
                 }, void 0, false, {
                     fileName: "[project]/src/app/sections/section8/SectionEight.tsx",
@@ -1455,7 +1459,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$ico
 ;
 const Rodape = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "w-full bg-gradient-to-b from-[#1A2028] to-[#233446] text-white py-24 px-6 sm:px-12 lg:px-24 flex flex-col items-center justify-center text-center gap-4 sm:gap-24",
+        className: "w-full bg-gradient-to-b from-[#1A2028] to-[#233446] text-white py-16 px-6 sm:px-12 lg:px-24 flex flex-col items-center justify-center text-center gap-4 sm:gap-24",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "flex items-center justify-center text-center gap-2 sm:gap-4",
@@ -1518,7 +1522,7 @@ const Rodape = ()=>{
                 className: "flex flex-col md:flex-row items-center justify-center gap-8 md:gap-24 px-4 py-10 text-white",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "text-center md:text-left flex flex-col gap-2 max-w-md",
+                        className: "text-left md:text-left flex flex-col gap-2 max-w-md",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 style: {

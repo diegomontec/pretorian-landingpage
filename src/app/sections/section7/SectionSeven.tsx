@@ -6,7 +6,7 @@ export default function SectionSeven() {
       className="w-full bg-gradient-to-b from-[#1A2028] to-[#233446] text-white py-20 px-6 sm:px-12 lg:px-16"
       aria-labelledby="section-seven-title"
     >
-      <div className="mx-auto max-w-6xl flex flex-col items-center text-center gap-12">
+      <div className="mx-auto max-w-6xl flex flex-col items-center text-left md:text-center gap-12">
         <h2
           id="section-seven-title"
           style={{ fontFamily: 'AtypDisplayLight' }}
