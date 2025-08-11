@@ -33,13 +33,13 @@ export default function CarrosselSeven() {
           slidesPerView={1.3}
           spaceBetween={12}
           breakpoints={{
-            640: { slidesPerView: 2.4, spaceBetween:20  },
-            1024: { slidesPerView: 3.4, spaceBetween:20 },
+            640: { slidesPerView: 2.4},
+            1024: { slidesPerView: 3.4}
           }}
         >
           {data.map((item) => (
             <SwiperSlide key={item.id} aria-label={item.title}>
-              <figure className="relative w-full h-full rounded-4xl group overflow-hidden">
+              <figure className="relative w-full h-full group overflow-hidden">
                 <Image
                   src={item.image}
                   alt={item.title}
