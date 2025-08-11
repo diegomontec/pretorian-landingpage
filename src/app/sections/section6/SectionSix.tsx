@@ -13,7 +13,7 @@ const SectionSix = () => {
         <iframe
           src="https://b24-2u1rlh.bitrix24.site/crm_form_p6tlw/"
           title="Formulário de Contato"
-          className="w-full h-[400px] sm:h-[509px] lg:h-[609px] rounded-xl border-none overflow-hidden"
+          className="w-full h-[400px] sm:h-[508px] lg:h-[608px] rounded-xl border-none overflow-hidden"
           style={{
             backgroundColor: 'transparent',
           }}

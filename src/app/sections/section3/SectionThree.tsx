@@ -23,11 +23,11 @@ const SectionThree = () => {
         {/* Botão */}
         <div>
           <a
-            href="https://wa.me/5515997705571"
+            href="#forms-bitrix"
             className="bg-[#e0c578] text-[#0F1926] font-semibold text-base sm:text-lg px-6 py-3 rounded-full transition duration-300 hover:brightness-110"
             style={{fontFamily: 'AtypDisplay'}}
           >
-            Entre em contato pelo WhatsApp
+            Entre em contato com um especialista
           </a>
         </div>
       </div>

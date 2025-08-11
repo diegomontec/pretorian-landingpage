@@ -1,6 +1,6 @@
 const SectionEight = () => {
   return (
-    <div className="w-full bg-[#1A2028] text-white py-20 px-6 sm:px-12 lg:px-64 flex flex-col items-center justify-center gap-32">
+    <div className="w-full bg-gradient-to-t from-[#1A2028] to-[#233446] text-white py-20 px-6 sm:px-12 lg:px-64 flex flex-col items-center justify-center gap-32">
       
       {/* Missão e Visão */}
       <div className="flex flex-col lg:flex-row items-center justify-center gap-16 w-full">
