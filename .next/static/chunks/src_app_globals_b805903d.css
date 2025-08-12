@@ -877,10 +877,6 @@
     object-fit: cover;
   }
 
-  .px-2 {
-    padding-inline: calc(var(--spacing) * 2);
-  }
-
   .px-3 {
     padding-inline: calc(var(--spacing) * 3);
   }
@@ -1381,12 +1377,6 @@
   }
 
   @media (min-width: 64rem) {
-    .lg\:block {
-      display: block;
-    }
-  }
-
-  @media (min-width: 64rem) {
     .lg\:h-\[608px\] {
       height: 608px;
     }
@@ -1419,12 +1409,6 @@
   @media (min-width: 64rem) {
     .lg\:gap-8 {
       gap: calc(var(--spacing) * 8);
-    }
-  }
-
-  @media (min-width: 64rem) {
-    .lg\:px-1 {
-      padding-inline: calc(var(--spacing) * 1);
     }
   }
 
@@ -1478,12 +1462,6 @@
     .lg\:text-xl {
       font-size: var(--text-xl);
       line-height: var(--tw-leading, var(--text-xl--line-height));
-    }
-  }
-
-  @media (min-width: 80rem) {
-    .xl\:block {
-      display: block;
     }
   }
 
