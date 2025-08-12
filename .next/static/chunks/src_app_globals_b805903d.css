@@ -752,6 +752,10 @@
     overflow: hidden;
   }
 
+  .overflow-y-hidden {
+    overflow-y: hidden;
+  }
+
   .rounded-2xl {
     border-radius: var(--radius-2xl);
   }
