@@ -1047,10 +1047,11 @@ const SectionSix = ()=>{
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
                     src: "https://b24-2u1rlh.bitrix24.site/crm_form_fxs2v/",
                     title: "Formulário de Contato",
-                    className: "w-full overflow-hidden h-[320px] sm:h-[350px] md:h-[400]  rounded-xl border-none",
+                    className: "w-full overflow-hidden h-[470] sm:-[480] md:h-[510] lg:h-[547]  rounded-xl border-none",
                     scrolling: "no",
                     style: {
-                        backgroundColor: 'transparent'
+                        backgroundColor: 'transparent',
+                        margin: '0 auto'
                     }
                 }, void 0, false, {
                     fileName: "[project]/src/app/sections/section6/SectionSix.tsx",
