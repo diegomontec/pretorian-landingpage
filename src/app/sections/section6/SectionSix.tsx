@@ -1,6 +1,6 @@
 const SectionSix = () => {
   return (
-    <div className="w-full bg-[#1A2028] text-white py-20 px-6 sm:px-12 lg:px-24 flex flex-col items-center text-center gap-16">
+    <div className="w-full bg-[#1A2028] h-full text-white py-20 px-6 flex flex-col items-center text-center gap-16">
       <h2
         style={{ fontFamily: 'AtypDisplaySemiBold' }}
         className="text-xl sm:text-2xl lg:text-3xl font-semibold max-w-3xl"
@@ -9,7 +9,7 @@ const SectionSix = () => {
         Sua empresa está pronta para escalar no mercado financeiro? Fale conosco!
       </h2>
 
-      <div className="w-full max-w-6xl">
+      <div className="w-full bg-[#272c2f] max-w-6xl">
         <iframe
           src="https://b24-2u1rlh.bitrix24.site/crm_form_fxs2v/"
           title="Formulário de Contato"
@@ -17,7 +17,6 @@ const SectionSix = () => {
           scrolling="no"
           style={{
             backgroundColor: 'transparent',
-            margin: '0 auto',
           }}
         />
       </div>
