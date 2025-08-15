@@ -1079,10 +1079,10 @@ function SectionSix() {
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "   w-full   max-w-3xl   bg-[#272c2f]   rounded-2xl   shadow-lg   p-4   sm:p-6   md:p-8   overflow-hidden   ",
+                    className: "   w-full   max-w-2xl   p-4   sm:p-6   md:p-8   overflow-hidden   ",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$sections$2f$section6$2f$Forms$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Forms"], {}, void 0, false, {
                         fileName: "[project]/src/app/sections/section6/SectionSix.tsx",
-                        lineNumber: 53,
+                        lineNumber: 50,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {

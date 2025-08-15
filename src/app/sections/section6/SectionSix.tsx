@@ -40,10 +40,7 @@ export default function SectionSix() {
         <div
           className="
             w-full
-            max-w-3xl
-            bg-[#272c2f]
-            rounded-2xl
-            shadow-lg
+            max-w-2xl
             p-4
             sm:p-6
             md:p-8

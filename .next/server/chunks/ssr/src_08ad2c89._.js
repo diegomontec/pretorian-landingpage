@@ -140,32 +140,32 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 function Forms() {
     const CONTAINER_ID = 'bitrix-form-container';
-    const SCRIPT_ID = 'bitrix-form-loader-66';
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
         const container = document.getElementById(CONTAINER_ID);
         if (!container) return;
-        // limpa conteúdo anterior (HMR / navegação)
+        // Limpa conteúdo anterior
         container.innerHTML = '';
-        // remove script antigo se existir
-        const old = document.getElementById(SCRIPT_ID);
-        if (old?.parentNode) old.parentNode.removeChild(old);
-        const s = document.createElement('script');
-        s.id = SCRIPT_ID;
-        s.src = 'https://cdn.bitrix24.com.br/b27474801/crm/form/loader_66.js'; // ajuste se o seu loader mudar
-        s.async = true;
-        s.setAttribute('data-b24-form', 'inline/66/trwug7'); // ajuste se o ID/slug mudar
-        s.setAttribute('data-skip-moving', 'true');
-        container.appendChild(s);
+        // Cria o script inline que Bitrix fornece
+        const inlineScript = document.createElement('script');
+        inlineScript.setAttribute('data-b24-form', 'inline/66/trwug7');
+        inlineScript.setAttribute('data-skip-moving', 'true');
+        // Define o conteúdo JS igual ao snippet original
+        inlineScript.innerHTML = `
+      (function(w,d,u){
+        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+      })(window,document,'https://cdn.bitrix24.com.br/b27474801/crm/form/loader_66.js');
+    `;
+        // Adiciona no container
+        container.appendChild(inlineScript);
         return ()=>{
             container.innerHTML = '';
-            const script = document.getElementById(SCRIPT_ID);
-            if (script?.parentNode) script.parentNode.removeChild(script);
         };
     }, []);
-    // container flexível e responsivo (altura mínima por breakpoint)
+    // Container responsivo, já com alinhamento e borda
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         id: CONTAINER_ID,
-        className: "   w-full   "
+        className: "   w-full   text-left   p-4   sm:p-6   md:p-8   "
     }, void 0, false, {
         fileName: "[project]/src/app/sections/section6/Forms.jsx",
         lineNumber: 38,
