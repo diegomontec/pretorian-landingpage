@@ -139,7 +139,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { k: __turbopack_refresh__, m: module, e: exports } = __turbopack_context__;
 {
-const e = new Error("Could not parse module '[project]/src/app/sections/section6/SectionSix.tsx'\n\nExpected ';', '}' or <eof>");
+const e = new Error("Could not parse module '[project]/src/app/sections/section6/SectionSix.tsx'\n\nExpected '</', got 'var'");
 e.code = 'MODULE_UNPARSABLE';
 throw e;
 }}),

@@ -1046,7 +1046,7 @@ const __TURBOPACK__default__export__ = (0, __TURBOPACK__imported__module__$5b$pr
 
 var { m: module, e: exports } = __turbopack_context__;
 {
-const e = new Error("Could not parse module '[project]/src/app/sections/section6/SectionSix.tsx'\n\nExpected ';', '}' or <eof>");
+const e = new Error("Could not parse module '[project]/src/app/sections/section6/SectionSix.tsx'\n\nExpected '</', got 'var'");
 e.code = 'MODULE_UNPARSABLE';
 throw e;
 }}),
