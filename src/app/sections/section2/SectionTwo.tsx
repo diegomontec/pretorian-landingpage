@@ -73,7 +73,7 @@ const SectionTwo = () => {
                 style={{ fontFamily: 'AtypDisplayBold' }}
                 className="text-[#e0c578] text-3xl sm:text-4xl md:text-5xl leading-tight"
               >
-                + 2 bilhões0
+                + 2 bilhões
               </h2>
               <h3
                 style={{ fontFamily: 'AtypDisplaySemiBold' }}
